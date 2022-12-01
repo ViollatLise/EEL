@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: https://viollatlise.github.io/EEL
 languageCode: en-us
 theme: hugo-theme-hello-friend
 paginate: 5
