@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/about/</loc>
+    <loc>https://viollatlise.github.io/EEL/about/</loc>
   </url><url>
-    <loc>/showcase/</loc>
+    <loc>https://viollatlise.github.io/EEL/showcase/</loc>
   </url><url>
-    <loc>/archive/</loc>
+    <loc>https://viollatlise.github.io/EEL/archive/</loc>
   </url><url>
-    <loc>/post/hello/</loc>
+    <loc>https://viollatlise.github.io/EEL/post/hello/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://viollatlise.github.io/EEL/categories/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>https://viollatlise.github.io/EEL/</loc>
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://viollatlise.github.io/EEL/post/</loc>
   </url><url>
-    <loc>/post/rubbanmoray/</loc>
+    <loc>https://viollatlise.github.io/EEL/post/rubbanmoray/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://viollatlise.github.io/EEL/tags/</loc>
   </url>
 </urlset>
