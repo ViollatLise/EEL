@@ -27,7 +27,7 @@ languages:
     olderPosts: Older posts
     params:
       logo:
-        logoHomeLink: /
+        logoHomeLink: https://viollatlise.github.io/EEL/
         logoText: EELS
     readMore: Read more
     readOtherPosts: Read other posts
