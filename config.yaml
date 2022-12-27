@@ -5,7 +5,7 @@ paginate: 5
 params:
   contentTypeName: post
   defaultTheme: dark
-  showMenuItems: 2
+  showMenuItems: 3
   showReadingTime: no
 languages:
   en:
@@ -18,9 +18,12 @@ languages:
         - identifier: about
           name: About
           url: /about
-        - identifier: showcase
+        - identifier: anguilliform
           name: Anguilliforms
-          url: /showcase
+          url: /anguilliform
+        - identifier: species
+          name: Species
+          url: /species
     menuMore: Show more
     minuteReadingTime: min read
     newerPosts: Newer posts
