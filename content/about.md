@@ -1,5 +1,5 @@
 ---
-title: About
+title: ABOUT
 ---
 
 **Hi there, welcome to the "EEL website"!**
@@ -21,4 +21,4 @@ Where to find me \
 [INSTAGRAM](https://www.instagram.com/baka_unico/) \
 [THUMBLR](https://baka-unico.tumblr.com/)
 
-![](../content/images/buse130.png)
+![](../img/buse130.png)

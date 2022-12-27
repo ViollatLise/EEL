@@ -1,6 +1,6 @@
 ---
-title: Anguilliformes
-cover: img/eel1.jpg
+title: WHAT ARE EELS ?
+cover: img/buse32.png
 ---
 
 ## Definition
