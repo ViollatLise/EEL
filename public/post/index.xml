@@ -5,39 +5,20 @@
     
     
     
-    <link>/post/</link>
+    <link>https://viollatlise.github.io/EEL/post/</link>
     <description>Recent content in Posts on Hello eels lovers!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://viollatlise.github.io/EEL/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>ARCHIVE</title>
-      <link>/post/hello/</link>
+      <title>RUBBAN MORAY EEL</title>
+      <link>https://viollatlise.github.io/EEL/post/rubbanmoray/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/hello/</guid>
-      <description>
-        
-          &lt;img src=&#34;/img/poisson.png&#34;/&gt;
-          
-        
-        
-        
-          List of the species you will find here
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>RUBBAN MORAY EEL </title>
-      <link>/post/rubbanmoray/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/rubbanmoray/</guid>
+      <guid>https://viollatlise.github.io/EEL/post/rubbanmoray/</guid>
       <description>
         
           
@@ -48,6 +29,25 @@
         
           Description # La Murène ruban ou Murène ruban bleue (Rhinomuraena quaesita) est une espèce de poissons de la famille des Muraenidae. C&amp;rsquo;est la seule espèce de son genre Rhinomuraena qui est dit monotypique.
 Comme toutes les murènes, la murène ruban a un corps serpentiforme allongé et comprimé latéralement, avec des nageoires ventrale et dorsale continues. Celle-ci est particulièrement gracile, et présente des appendices nasaux en forme de cornets translucides ainsi que trois barbillons au bout de la mâchoire inférieure.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>WELCOME ON EEL WEBSITE</title>
+      <link>https://viollatlise.github.io/EEL/post/hello/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://viollatlise.github.io/EEL/post/hello/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://viollatlise.github.io/EEL/img/poisson.png&#34;/&gt;
+          
+        
+        
+        
+          List of the species you will find here
           
         
         </description>
