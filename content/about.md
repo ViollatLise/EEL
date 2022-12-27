@@ -16,6 +16,9 @@ Hope you will find this website here interesting!
 
 Want to see a particular species? Please send me a [mail!](unico-falcogriffin@hotmail.fr)
 
-Where to find me [TWITTER](https://twitter.com/BakaUnico) [INSTAGRAM](https://www.instagram.com/baka_unico/) [THUMBLR](https://baka-unico.tumblr.com/)
+Where to find me \
+[TWITTER](https://twitter.com/BakaUnico) \
+[INSTAGRAM](https://www.instagram.com/baka_unico/) \
+[THUMBLR](https://baka-unico.tumblr.com/)
 
 ![](../content/images/buse130.png)
